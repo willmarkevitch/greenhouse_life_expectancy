@@ -28,5 +28,4 @@ The analysis revealed a weak correlation between greenhouse gas emissions and li
 - Utilize machine learning models to predict life expectancy based on multiple factors
 
 ## Authors
-Will Markevitch and Andrew Hansen
-wmarkevitch@ucsb.edu
+Will Markevitch and Andrew Hansen, wmarkevitch@ucsb.edu
